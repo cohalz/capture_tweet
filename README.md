@@ -2,7 +2,7 @@
 # require:
 
 ```
-pip install selenium
+pip install selenium pillow
 ```
 
 
